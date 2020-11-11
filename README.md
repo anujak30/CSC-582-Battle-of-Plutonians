@@ -7,6 +7,7 @@ The game - ‘Battle of Plutonians’ is a “Branch and Bottleneck” choice ba
 ## Execution instructions
 
 Open the html file with browser and make sure you have internet connection.
+[Note] For best experience play the game on google chrome browser. Some of the browsers like - Firefox donot support audio in the game.
 
 ## Twine version - 2.3.9
 
