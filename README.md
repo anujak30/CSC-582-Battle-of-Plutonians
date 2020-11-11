@@ -14,8 +14,8 @@ Open the html file with browser and make sure you have internet connection.
 
 ## Image and Audio Credits
 
-pexels.com
-reddit.com
-Synchronicity - Time Travel - Ben Lovett
+pexels.com <br />
+reddit.com <br />
+Synchronicity - Time Travel - Ben Lovett <br />
 Time Travel sound effect - GamingSoundEffects
 
