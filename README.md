@@ -11,4 +11,4 @@ Open the html file with browser and make sure you have internet connection.
 
 ## Twine version - 2.3.9
 
-##Twine story format - Harlowe 3.1.0
+## Twine story format - Harlowe 3.1.0
